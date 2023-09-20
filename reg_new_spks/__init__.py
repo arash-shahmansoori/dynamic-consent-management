@@ -1,0 +1,4 @@
+from .dynamic_registration_supervised import dyn_reg_sup
+from .dynamic_registration_supervised_scratch import dyn_reg_sup_scratch
+from .dynamic_registration_unsupervised import dyn_reg_unsup
+from .dynamic_registration_unsupervised_scratch import dyn_reg_unsup_scratch
