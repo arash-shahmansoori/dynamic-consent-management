@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: dynamic-consent-management
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Arash
+    family-names: Shahmansoori
+    email: arash.mansoori65@gmail.com
+    affiliation: Research Engineer
+    orcid: 'https://orcid.org/0000-0001-5126-8005'
+identifiers:
+  - type: doi
+    value: 10.1109/TNNLS.2023.3317493
+abstract: >-
+  PyTorch implementation of: ``Dynamic Recognition of
+  Speakers for Consent Management by Contrastive Embedding
+  Replay''
+keywords:
+  - Voice Assistant Systems
+  - Consent Management
+  - Contrastive Embedding Replay
+  - Multi-Strided Sampling
+  - Dynamic Learning
+license: MIT
+date-released: 2023-09-20
+url: "https://github.com/arash-shahmansoori/dynamic-consent-management.git"

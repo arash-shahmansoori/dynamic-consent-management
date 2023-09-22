@@ -205,9 +205,9 @@ Management by Contrastive Embedding Replay](https://arxiv.org/abs/2205.08459)
 Note: The paper mentioned above has been recently accepted for publication in IEEE Transactions on Neural Networks and Learning Systems (TNNLS) with the "DOI:10.1109/TNNLS.2023.3317493". Please cite the paper using the following format in the future if you are using the current repository:
 
 Arash Shahmansoori and Utz Roedig."Dynamic Recognition of Speakers for Consent
-Management by Contrastive Embedding Replay." IEEE Transactions on Neural Networks and Learning Systems, vol. [Volume], no. [Issue], pp. [Page range], [Month] [2023]. DOI:10.1109/TNNLS.2023.3317493
+Management by Contrastive Embedding Replay." IEEE Transactions on Neural Networks and Learning Systems, vol. [Volume], no. [Issue], pp. [Page range], [Month] [2023]. DOI:10.1109/TNNLS.2023.3317493 (corresponding author: Arash Shahmansoori)
 
-(corresponding author: Arash Shahmansoori)
+- Cite this repository
 
 To support differential privacy for speaker recognition in voice assistant systems using the private data and a small portion of publicly available data, please refer to the following repository:
 
